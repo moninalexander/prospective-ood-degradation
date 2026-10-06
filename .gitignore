@@ -1,5 +1,4 @@
 .DS_Store
-.env
 
 # Local config with private informaiton
 configs/local_config.py
