@@ -3,7 +3,6 @@
 # Local config with private informaiton
 configs/local_config.py
 .env
-.vscode/
 
 # Python
 __pycache__/
