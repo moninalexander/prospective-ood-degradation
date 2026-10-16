@@ -1,6 +1,6 @@
 # prospective-ood-degradation
 
-This repository contains the code accompanying our study of whether the onset of out-of-distribution degradation can be predicted prospectively from training-side information alone. We use training dynamics to predict an upcoming degradation event without using OOD performance as an input. The accompanying paper is available at [`paper/prospective_prediction.pdf`](paper/prospective_prediction.pdf).
+This repository contains the code accompanying our study of whether the onset of out-of-distribution degradation can be predicted prospectively from training-side information alone. We use training dynamics to predict an upcoming degradation event without using OOD performance as an input. The accompanying paper is available at [`Prospective Prediction of OOD Degradation from Source-Side Training Dynamics`](https://arxiv.org/abs/2610.12397).
 
 
 ## Dataset
